@@ -2,6 +2,9 @@
 
 Tests written using webdriverIO
 
+Framework used - Mocha
+Reporting - Spec
+
 ## Prerequisite:
 
 - Check your chrome version
